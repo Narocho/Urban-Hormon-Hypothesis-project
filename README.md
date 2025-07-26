@@ -1,2 +1,2 @@
-# Urban-Hormon-Hypothesis-project
+# Urban-Hormon-Hypothesis-project: Environmental Stressors and Hormonal Health in Maine (2023).
 Environmental factors like air pollution, light pollution, and noise have been linked to disruptions in hormonal health—especially in conditions like PCOS, adrenal fatigue, and thyroid imbalances. In this project, we explore how air quality affects hormone stress levels across Maine counties using real-world data.
